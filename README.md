@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Estudiante de primero del grado superior de Desarrollo de Aplicaciones Multiplataforma en el centro de IMF en Madrid.
+![](https://github.com/raulgohe/raulgohe/blob/main/asets/Cat.jpg)
