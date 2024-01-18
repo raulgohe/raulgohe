@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Estudiante de primero del grado superior de Desarrollo de Aplicaciones Multiplataforma en el centro de IMF en Madrid.
+Estudiante de segundoo en el grado superior de Desarrollo de Aplicaciones Multiplataforma en IMF Madrid.
 ![](https://github.com/raulgohe/raulgohe/blob/main/asets/Cat.jpg)
